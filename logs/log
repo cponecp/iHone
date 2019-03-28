@@ -1,0 +1,136 @@
+2019-02-10 08:35:07,884 - WARNING - _internal.py - _log - 88 -  * Debugger is active!
+2019-02-10 08:35:18,218 - ERROR - verify_code.py - get_sms_code - 90 - %b requires a bytes-like object, or an object that implements __bytes__, not 'str'
+2019-02-10 08:47:29,128 - WARNING - _internal.py - _log - 88 -  * Debugger is active!
+2019-02-10 08:47:32,077 - ERROR - verify_code.py - get_sms_code - 57 - 'NoneType' object has no attribute 'decode'
+2019-02-10 08:47:45,719 - ERROR - verify_code.py - get_sms_code - 90 - %b requires a bytes-like object, or an object that implements __bytes__, not 'str'
+2019-02-10 08:48:53,697 - WARNING - _internal.py - _log - 88 -  * Debugger is active!
+2019-02-10 08:49:09,412 - ERROR - verify_code.py - get_sms_code - 90 - %b requires a bytes-like object, or an object that implements __bytes__, not 'str'
+2019-02-10 08:50:39,920 - ERROR - verify_code.py - get_sms_code - 90 - %b requires a bytes-like object, or an object that implements __bytes__, not 'str'
+2019-02-10 08:52:30,502 - WARNING - _internal.py - _log - 88 -  * Debugger is active!
+2019-02-10 08:52:48,664 - ERROR - verify_code.py - get_sms_code - 90 - %b requires a bytes-like object, or an object that implements __bytes__, not 'str'
+2019-02-10 08:53:09,787 - ERROR - passport.py - register - 96 - %b requires a bytes-like object, or an object that implements __bytes__, not 'str'
+2019-02-10 09:05:57,914 - WARNING - _internal.py - _log - 88 -  * Debugger is active!
+2019-02-10 09:19:40,115 - WARNING - _internal.py - _log - 88 -  * Debugger is active!
+2019-02-10 09:20:37,553 - WARNING - _internal.py - _log - 88 -  * Debugger is active!
+2019-02-10 09:21:15,976 - WARNING - _internal.py - _log - 88 -  * Debugger is active!
+2019-02-10 09:21:35,408 - ERROR - verify_code.py - get_sms_code - 90 - %b requires a bytes-like object, or an object that implements __bytes__, not 'str'
+2019-02-10 09:22:05,318 - ERROR - passport.py - register - 95 - %b requires a bytes-like object, or an object that implements __bytes__, not 'str'
+2019-02-10 09:27:05,145 - WARNING - _internal.py - _log - 88 -  * Debugger is active!
+2019-02-10 09:27:19,908 - ERROR - verify_code.py - get_sms_code - 90 - %b requires a bytes-like object, or an object that implements __bytes__, not 'str'
+2019-02-10 09:27:54,426 - ERROR - passport.py - register - 95 - %b requires a bytes-like object, or an object that implements __bytes__, not 'str'
+2019-02-10 09:30:08,296 - WARNING - _internal.py - _log - 88 -  * Debugger is active!
+2019-02-10 09:43:42,385 - WARNING - _internal.py - _log - 88 -  * Debugger is active!
+2019-02-10 09:43:52,962 - ERROR - verify_code.py - get_sms_code - 90 - %b requires a bytes-like object, or an object that implements __bytes__, not 'str'
+2019-02-10 09:44:15,995 - ERROR - passport.py - register - 91 - %b requires a bytes-like object, or an object that implements __bytes__, not 'str'
+2019-02-10 09:45:51,890 - WARNING - _internal.py - _log - 88 -  * Debugger is active!
+2019-02-10 09:48:35,612 - WARNING - _internal.py - _log - 88 -  * Debugger is active!
+2019-02-10 09:48:52,259 - ERROR - verify_code.py - get_sms_code - 90 - %b requires a bytes-like object, or an object that implements __bytes__, not 'str'
+2019-02-10 09:49:14,950 - ERROR - passport.py - register - 89 - %b requires a bytes-like object, or an object that implements __bytes__, not 'str'
+2019-02-10 09:50:27,462 - WARNING - _internal.py - _log - 88 -  * Debugger is active!
+2019-02-10 09:50:50,492 - WARNING - _internal.py - _log - 88 -  * Debugger is active!
+2019-02-10 09:51:02,498 - ERROR - verify_code.py - get_sms_code - 90 - %b requires a bytes-like object, or an object that implements __bytes__, not 'str'
+2019-02-10 09:51:30,061 - ERROR - passport.py - register - 89 - %b requires a bytes-like object, or an object that implements __bytes__, not 'str'
+2019-02-10 09:52:51,446 - WARNING - _internal.py - _log - 88 -  * Debugger is active!
+2019-02-10 09:55:06,229 - WARNING - _internal.py - _log - 88 -  * Debugger is active!
+2019-02-10 09:55:24,585 - ERROR - verify_code.py - get_sms_code - 90 - %b requires a bytes-like object, or an object that implements __bytes__, not 'str'
+2019-02-10 09:58:28,713 - WARNING - _internal.py - _log - 88 -  * Debugger is active!
+2019-02-10 10:00:15,709 - WARNING - _internal.py - _log - 88 -  * Debugger is active!
+2019-02-10 10:00:31,139 - ERROR - verify_code.py - get_sms_code - 90 - %b requires a bytes-like object, or an object that implements __bytes__, not 'str'
+2019-02-10 10:01:25,105 - WARNING - _internal.py - _log - 88 -  * Debugger is active!
+2019-02-10 10:01:36,941 - ERROR - verify_code.py - get_sms_code - 90 - %b requires a bytes-like object, or an object that implements __bytes__, not 'str'
+2019-02-10 10:23:29,790 - WARNING - _internal.py - _log - 88 -  * Debugger is active!
+2019-02-10 10:23:48,720 - ERROR - verify_code.py - get_sms_code - 90 - %b requires a bytes-like object, or an object that implements __bytes__, not 'str'
+2019-02-10 10:24:24,036 - ERROR - passport.py - register - 89 - %b requires a bytes-like object, or an object that implements __bytes__, not 'str'
+2019-02-10 10:36:53,162 - WARNING - _internal.py - _log - 88 -  * Debugger is active!
+2019-02-10 10:37:11,192 - ERROR - verify_code.py - get_sms_code - 90 - filter() got an unexpected keyword argument 'mobile'
+2019-02-10 10:39:21,277 - WARNING - _internal.py - _log - 88 -  * Debugger is active!
+2019-02-10 10:39:33,788 - ERROR - verify_code.py - get_sms_code - 90 - %b requires a bytes-like object, or an object that implements __bytes__, not 'str'
+2019-02-10 11:59:19,832 - WARNING - _internal.py - _log - 88 -  * Debugger is active!
+2019-02-10 11:59:38,043 - ERROR - verify_code.py - get_sms_code - 92 - (OperationalError) (2003, 'Can\'t connect to MySQL server on \'localhost\' ((1044, "Access denied for user \'\'@\'localhost\' to database \'root:@127.0.0.1:3306/ihome\'"))') None None
+2019-02-10 12:01:00,854 - WARNING - _internal.py - _log - 88 -  * Debugger is active!
+2019-02-10 12:05:45,543 - WARNING - _internal.py - _log - 88 -  * Debugger is active!
+2019-02-10 12:06:06,243 - ERROR - verify_code.py - get_sms_code - 59 - 'NoneType' object has no attribute 'decode'
+2019-02-10 12:06:09,464 - ERROR - verify_code.py - get_sms_code - 59 - 'NoneType' object has no attribute 'decode'
+2019-02-10 12:07:00,085 - WARNING - _internal.py - _log - 88 -  * Debugger is active!
+2019-02-10 16:14:23,095 - WARNING - _internal.py - _log - 88 -  * Debugger is active!
+2019-02-10 16:15:28,455 - WARNING - _internal.py - _log - 88 -  * Debugger is active!
+2019-02-10 16:15:57,349 - WARNING - _internal.py - _log - 88 -  * Debugger is active!
+2019-02-10 16:18:16,345 - WARNING - _internal.py - _log - 88 -  * Debugger is active!
+2019-02-10 16:24:11,983 - WARNING - _internal.py - _log - 88 -  * Debugger is active!
+2019-02-10 16:40:31,632 - WARNING - _internal.py - _log - 88 -  * Debugger is active!
+2019-02-10 16:42:01,702 - WARNING - _internal.py - _log - 88 -  * Debugger is active!
+2019-02-10 16:43:11,437 - WARNING - _internal.py - _log - 88 -  * Debugger is active!
+2019-02-10 16:50:21,502 - WARNING - _internal.py - _log - 88 -  * Debugger is active!
+2019-02-10 16:55:14,466 - WARNING - _internal.py - _log - 88 -  * Debugger is active!
+2019-02-10 18:31:44,595 - WARNING - _internal.py - _log - 88 -  * Debugger is active!
+2019-02-11 10:06:54,405 - WARNING - _internal.py - _log - 88 -  * Debugger is active!
+2019-02-11 10:08:50,058 - WARNING - _internal.py - _log - 88 -  * Debugger is active!
+2019-02-11 10:15:44,605 - WARNING - _internal.py - _log - 88 -  * Debugger is active!
+2019-02-11 10:16:37,694 - WARNING - _internal.py - _log - 88 -  * Debugger is active!
+2019-02-11 10:17:55,517 - WARNING - _internal.py - _log - 88 -  * Debugger is active!
+2019-02-11 10:18:28,705 - WARNING - _internal.py - _log - 88 -  * Debugger is active!
+2019-02-11 10:25:39,828 - WARNING - _internal.py - _log - 88 -  * Debugger is active!
+2019-02-11 10:26:59,331 - WARNING - _internal.py - _log - 88 -  * Debugger is active!
+2019-02-11 10:30:09,039 - WARNING - _internal.py - _log - 88 -  * Debugger is active!
+2019-02-11 10:30:45,718 - WARNING - _internal.py - _log - 88 -  * Debugger is active!
+2019-02-11 10:31:47,660 - WARNING - _internal.py - _log - 88 -  * Debugger is active!
+2019-02-11 10:31:56,635 - WARNING - _internal.py - _log - 88 -  * Debugger is active!
+2019-02-11 10:32:28,741 - WARNING - _internal.py - _log - 88 -  * Debugger is active!
+2019-02-11 10:33:05,405 - WARNING - _internal.py - _log - 88 -  * Debugger is active!
+2019-02-11 15:36:26,094 - WARNING - _internal.py - _log - 88 -  * Debugger is active!
+2019-02-11 15:39:20,855 - WARNING - _internal.py - _log - 88 -  * Debugger is active!
+2019-02-11 15:39:35,943 - WARNING - _internal.py - _log - 88 -  * Debugger is active!
+2019-02-11 15:42:21,240 - WARNING - _internal.py - _log - 88 -  * Debugger is active!
+2019-02-11 15:45:18,884 - WARNING - _internal.py - _log - 88 -  * Debugger is active!
+2019-02-11 15:45:30,551 - WARNING - _internal.py - _log - 88 -  * Debugger is active!
+2019-02-11 15:47:51,257 - WARNING - _internal.py - _log - 88 -  * Debugger is active!
+2019-02-11 15:49:19,847 - INFO - houses.py - get_area_info - 22 - hit the redis area_info
+2019-02-11 21:40:30,013 - WARNING - _internal.py - _log - 88 -  * Debugger is active!
+2019-02-11 21:42:56,322 - INFO - houses.py - get_area_info - 22 - hit the redis area_info
+2019-02-11 21:43:27,690 - INFO - houses.py - get_area_info - 22 - hit the redis area_info
+2019-02-12 10:27:47,863 - WARNING - _internal.py - _log - 88 -  * Debugger is active!
+2019-02-12 11:20:27,207 - WARNING - _internal.py - _log - 88 -  * Debugger is active!
+2019-02-12 11:20:31,791 - INFO - houses.py - get_area_info - 24 - hit the redis area_info
+2019-02-12 11:21:41,337 - INFO - houses.py - get_area_info - 24 - hit the redis area_info
+2019-02-12 11:23:55,571 - INFO - houses.py - get_area_info - 24 - hit the redis area_info
+2019-02-13 14:58:13,666 - WARNING - _internal.py - _log - 88 -  * Debugger is active!
+2019-02-13 14:58:22,287 - ERROR - houses.py - get_house_detail - 320 - module 'ihome.constants' has no attribute 'HOUSE_DETAIL_REDIS_EXPIRE_SECOND'
+2019-02-13 15:01:39,367 - INFO - houses.py - get_house_index - 244 - hit house index info redis
+2019-02-13 15:01:39,373 - INFO - houses.py - get_area_info - 25 - hit the redis area_info
+2019-02-13 15:01:42,819 - INFO - houses.py - get_house_index - 244 - hit house index info redis
+2019-02-13 15:01:42,830 - INFO - houses.py - get_area_info - 25 - hit the redis area_info
+2019-02-13 15:01:51,249 - INFO - houses.py - get_house_index - 244 - hit house index info redis
+2019-02-13 15:01:51,256 - INFO - houses.py - get_area_info - 25 - hit the redis area_info
+2019-02-15 10:48:23,144 - WARNING - _internal.py - _log - 88 -  * Debugger is active!
+2019-02-15 10:50:04,308 - INFO - houses.py - get_house_index - 244 - hit house index info redis
+2019-02-15 10:50:04,311 - INFO - houses.py - get_area_info - 25 - hit the redis area_info
+2019-02-15 10:50:14,300 - INFO - houses.py - get_house_index - 244 - hit house index info redis
+2019-02-15 10:50:14,304 - INFO - houses.py - get_area_info - 25 - hit the redis area_info
+2019-02-15 10:50:27,747 - INFO - houses.py - get_house_index - 244 - hit house index info redis
+2019-02-15 10:50:27,752 - INFO - houses.py - get_area_info - 25 - hit the redis area_info
+2019-02-16 11:25:16,560 - WARNING - _internal.py - _log - 88 -  * Debugger is active!
+2019-02-16 11:26:26,690 - INFO - houses.py - get_house_index - 244 - hit house index info redis
+2019-02-16 11:26:26,701 - INFO - houses.py - get_area_info - 25 - hit the redis area_info
+2019-02-19 11:30:05,972 - WARNING - _internal.py - _log - 88 -  * Debugger is active!
+2019-02-19 13:41:59,756 - WARNING - _internal.py - _log - 88 -  * Debugger is active!
+2019-02-19 13:47:42,482 - WARNING - _internal.py - _log - 88 -  * Debugger is active!
+2019-02-19 13:49:07,570 - WARNING - _internal.py - _log - 88 -  * Debugger is active!
+2019-02-19 13:56:16,278 - WARNING - _internal.py - _log - 88 -  * Debugger is active!
+2019-02-19 13:57:30,291 - WARNING - _internal.py - _log - 88 -  * Debugger is active!
+2019-02-19 13:57:51,520 - WARNING - _internal.py - _log - 88 -  * Debugger is active!
+2019-02-19 14:07:51,998 - WARNING - _internal.py - _log - 88 -  * Debugger is active!
+2019-02-19 14:09:16,923 - WARNING - _internal.py - _log - 88 -  * Debugger is active!
+2019-02-19 14:09:21,473 - WARNING - _internal.py - _log - 88 -  * Debugger is active!
+2019-02-19 14:09:31,091 - WARNING - _internal.py - _log - 88 -  * Debugger is active!
+2019-02-19 14:09:36,716 - WARNING - _internal.py - _log - 88 -  * Debugger is active!
+2019-02-19 14:09:54,238 - WARNING - _internal.py - _log - 88 -  * Debugger is active!
+2019-02-19 14:12:29,036 - WARNING - _internal.py - _log - 88 -  * Debugger is active!
+2019-02-19 14:13:38,101 - WARNING - _internal.py - _log - 88 -  * Debugger is active!
+2019-02-19 14:15:24,377 - WARNING - _internal.py - _log - 88 -  * Debugger is active!
+2019-02-19 14:16:51,308 - WARNING - _internal.py - _log - 88 -  * Debugger is active!
+2019-02-19 14:18:41,619 - WARNING - _internal.py - _log - 88 -  * Debugger is active!
+2019-02-19 14:21:00,171 - WARNING - _internal.py - _log - 88 -  * Debugger is active!
+2019-02-19 14:21:17,455 - WARNING - _internal.py - _log - 88 -  * Debugger is active!
+2019-02-19 14:22:05,922 - WARNING - _internal.py - _log - 88 -  * Debugger is active!
+2019-02-19 14:59:48,014 - WARNING - _internal.py - _log - 88 -  * Debugger is active!
+2019-02-19 15:02:02,250 - WARNING - _internal.py - _log - 88 -  * Debugger is active!
